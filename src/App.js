@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import logo2 from './AWS.png';
 import './App.css';
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo2} className="App-logo" alt="logo2" />
         <p>
           Document Respository Search powered by AWS Kendra
         </p>
